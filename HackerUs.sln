@@ -7,11 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerUs", "HackerUs\Hacker
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IO", "IO\IO.csproj", "{AA9B45A1-96F1-4010-BF33-FB7D090940F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment Operators", "Assignment Operators\Assignment Operators.csproj", "{5455AC18-C0A8-4925-B023-B9D6B9C8164A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment Operators", "Assignment Operators\Assignment Operators.csproj", "{5455AC18-C0A8-4925-B023-B9D6B9C8164A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Booleans", "Booleans\Booleans.csproj", "{68A2C80D-C885-44AA-A0C3-B3433E6ED911}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Booleans", "Booleans\Booleans.csproj", "{68A2C80D-C885-44AA-A0C3-B3433E6ED911}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditions", "Conditions\Conditions.csproj", "{C05347B8-B0AB-4793-A9B1-3EDCB7B31F25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditions", "Conditions\Conditions.csproj", "{C05347B8-B0AB-4793-A9B1-3EDCB7B31F25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logical Operators", "Logical Operators\Logical Operators.csproj", "{334EF58A-45BC-4B62-807F-3CBF7D405846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{F7475C7F-F53C-461C-9CB8-9A78BD7657C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops1", "Loops1\Loops1.csproj", "{1B26694F-147C-4499-AEA3-C8A5545E19F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{C05347B8-B0AB-4793-A9B1-3EDCB7B31F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C05347B8-B0AB-4793-A9B1-3EDCB7B31F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C05347B8-B0AB-4793-A9B1-3EDCB7B31F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{334EF58A-45BC-4B62-807F-3CBF7D405846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334EF58A-45BC-4B62-807F-3CBF7D405846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334EF58A-45BC-4B62-807F-3CBF7D405846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334EF58A-45BC-4B62-807F-3CBF7D405846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7475C7F-F53C-461C-9CB8-9A78BD7657C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7475C7F-F53C-461C-9CB8-9A78BD7657C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7475C7F-F53C-461C-9CB8-9A78BD7657C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7475C7F-F53C-461C-9CB8-9A78BD7657C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B26694F-147C-4499-AEA3-C8A5545E19F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B26694F-147C-4499-AEA3-C8A5545E19F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B26694F-147C-4499-AEA3-C8A5545E19F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B26694F-147C-4499-AEA3-C8A5545E19F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
